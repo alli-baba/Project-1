@@ -31,3 +31,24 @@
 ![systemctl status apache2](./Images/systemctl%20status%20apache2.png)
 
 
+
+## Installing MYSQL
+
+
+`sudo apt install mysql-server`
+
+
+
+![installing mysql-server](./Images/installing%20mysql-server.png)
+
+
+
+## Installing PHP
+
+`sudo apt install php libapache2-mod-php php-mysql`
+
+
+![installing PHP](./Images/Installing%20PHP.png)
+
+
+
