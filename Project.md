@@ -52,3 +52,43 @@
 
 
 
+##  Creating a virtual host for your website using apache
+
+
+`sudo vi /etc/apache2/sites-available/projectlamp.conf`
+
+
+
+
+![Creating a virtual host for your website using apache](./Images/Creating%20a%20virtual%20host%20for%20your%20website%20using%20apache.png)
+
+
+## Enable php on the website
+
+
+`sudo vim /etc/apache2/mods-enabled/dir.conf`
+
+
+
+
+
+![Enable php on the website](./Images/Enable%20php%20on%20the%20website.png)
+
+
+
+
+## Create a new file named index.php
+
+
+
+`vim /var/www/projectlamp/index.php`
+
+
+
+![Enable php on the website](./Images/Create%20a%20new%20file%20named%20index.php.png)
+
+
+# PHP installation is working as expected.
+
+
+![Enable php on the website](./Images/PHP%20installation%20is%20working%20as%20expected..png)
